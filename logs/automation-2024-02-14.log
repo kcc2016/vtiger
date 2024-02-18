@@ -1,0 +1,61 @@
+21:37:50.479 [main] INFO  LeadsModule.EditLeadTest - The user has clicked on Leads Module
+21:38:11.399 [main] INFO  LeadsModule.EditLeadTest - The user has selected the 0 leads that he/she wants to edit
+21:38:31.817 [main] INFO  LeadsModule.EditLeadTest - Test Passed
+21:38:33.163 [main] INFO  LeadsModule.EditLeadTest - The user has navigated to home screen
+22:15:32.958 [main] INFO  LeadsModule.EditLeadTest - The user has clicked on Leads Module
+22:15:53.994 [main] INFO  LeadsModule.EditLeadTest - The user has selected the 0 leads that he/she wants to edit
+22:16:14.373 [main] INFO  LeadsModule.EditLeadTest - Test Passed
+22:16:15.635 [main] INFO  LeadsModule.EditLeadTest - The user has navigated to home screen
+22:18:54.816 [main] INFO  LeadsModule.EditLeadTest - Browser has opened
+22:18:55.685 [main] INFO  LeadsModule.EditLeadTest - Navigated to the URL - http://localhost:8888/
+22:18:57.633 [main] INFO  LeadsModule.EditLeadTest - User 'admin' has logged in
+22:19:00.529 [main] INFO  LeadsModule.EditLeadTest - The user has clicked on Leads Module
+22:19:21.410 [main] INFO  LeadsModule.EditLeadTest - The user has selected the 0 leads that he/she wants to edit
+22:19:41.777 [main] INFO  LeadsModule.EditLeadTest - Test Passed
+22:19:42.982 [main] INFO  LeadsModule.EditLeadTest - The user has navigated to home screen
+22:19:45.395 [main] INFO  LeadsModule.EditLeadTest - The user has signed out
+22:19:45.681 [main] INFO  LeadsModule.EditLeadTest - The browser has closed
+22:19:45.727 [main] INFO  LeadsModule.EditLeadTest - Database connection closed
+23:00:42.778 [main] INFO  LoginModule.LoginTest - Browser launched
+23:00:42.936 [main] INFO  LoginModule.LoginTest - Browser maximized
+23:00:43.739 [main] INFO  LoginModule.LoginTest - Navigated to URL: url
+23:00:46.331 [main] INFO  LoginModule.LoginTest - User - abc has tried to login with password - abc
+23:00:46.343 [main] INFO  LoginModule.LoginTest - Test Passed
+23:00:47.432 [main] INFO  LoginModule.LoginTest - User - def has tried to login with password - def
+23:00:47.444 [main] INFO  LoginModule.LoginTest - Test Passed
+23:00:49.566 [main] INFO  LoginModule.LoginTest - User - admin has tried to login with password - admin
+23:00:49.589 [main] INFO  LoginModule.LoginTest - Test Passed
+23:00:53.427 [main] INFO  LoginModule.LoginTest - User - xyz has tried to login with password - xyz
+23:00:53.443 [main] INFO  LoginModule.LoginTest - Test Passed
+23:10:39.821 [main] INFO  LoginModule.LoginTest - Browser launched
+23:10:39.952 [main] INFO  LoginModule.LoginTest - Browser maximized
+23:10:40.765 [main] INFO  LoginModule.LoginTest - Navigated to URL: http://localhost:8888/
+23:10:43.138 [main] INFO  LoginModule.LoginTest - User - abc has tried to login with password - abc
+23:10:43.155 [main] INFO  LoginModule.LoginTest - Test Passed
+23:10:44.094 [main] INFO  LoginModule.LoginTest - User - def has tried to login with password - def
+23:10:44.110 [main] INFO  LoginModule.LoginTest - Test Passed
+23:10:46.443 [main] INFO  LoginModule.LoginTest - User - admin has tried to login with password - admin
+23:10:46.469 [main] INFO  LoginModule.LoginTest - Test Passed
+23:10:50.088 [main] INFO  LoginModule.LoginTest - User - xyz has tried to login with password - xyz
+23:10:50.101 [main] INFO  LoginModule.LoginTest - Test Passed
+23:14:55.629 [main] INFO  LoginModule.LoginTest - Browser launched
+23:14:55.783 [main] INFO  LoginModule.LoginTest - Browser maximized
+23:14:56.584 [main] INFO  LoginModule.LoginTest - Navigated to URL: http://localhost:8888/
+23:14:59.080 [main] INFO  LoginModule.LoginTest - User - abc has tried to login with password - abc
+23:14:59.100 [main] INFO  LoginModule.LoginTest - Test Passed
+23:15:00.092 [main] INFO  LoginModule.LoginTest - User - def has tried to login with password - def
+23:15:00.103 [main] INFO  LoginModule.LoginTest - Test Passed
+23:15:02.053 [main] INFO  LoginModule.LoginTest - User - admin has tried to login with password - admin
+23:15:02.071 [main] INFO  LoginModule.LoginTest - Test Passed
+23:15:05.606 [main] INFO  LoginModule.LoginTest - User - xyz has tried to login with password - xyz
+23:15:05.633 [main] INFO  LoginModule.LoginTest - Test Passed
+23:16:37.815 [main] INFO  LoginModule.LoginTest - Browser launched
+23:16:37.950 [main] INFO  LoginModule.LoginTest - Browser maximized
+23:16:38.768 [main] INFO  LoginModule.LoginTest - Navigated to URL: http://localhost:8888/
+23:16:41.070 [main] INFO  LoginModule.LoginTest - User - abc has tried to login with password - abc
+23:16:41.085 [main] INFO  LoginModule.LoginTest - Test Passed
+23:16:42.049 [main] INFO  LoginModule.LoginTest - User - def has tried to login with password - def
+23:16:42.073 [main] INFO  LoginModule.LoginTest - Test Failed
+23:20:09.073 [main] INFO  LoginModule.LoginTest - Browser launched
+23:20:09.212 [main] INFO  LoginModule.LoginTest - Browser maximized
+23:20:10.169 [main] INFO  LoginModule.LoginTest - Navigated to URL: http://localhost:8888/

@@ -1,0 +1,5 @@
+# Created at 2024-02-16T17:30:49.247
+Boot Manifest-JAR contains absolute paths in classpath 'D:\foldery\java_workspace\vtiger1\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+

@@ -1,0 +1,9 @@
+practice\Demo1.class
+LeadsModule\CreateLeadTest.class
+practice\DemoTest.class
+LoginModule\LoginTest.class
+LeadsModule\DeleteLeadUsingDelLInkTest.class
+LeadsModule\DeleteLeadUsingDeleteButtonTest.class
+ProductsModule\CreateProductTest.class
+LeadsModule\EditLeadTest.class
+VendorsModule\CreateVendorTest.class

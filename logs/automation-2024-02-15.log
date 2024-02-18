@@ -1,0 +1,59 @@
+20:36:47.973 [main] INFO  LoginModule.LoginTest - User - admin has tried to login with password - admin
+20:36:47.993 [main] INFO  LoginModule.LoginTest - Test Passed
+20:36:51.594 [main] INFO  LoginModule.LoginTest - User - xyz has tried to login with password - xyz
+20:36:51.610 [main] INFO  LoginModule.LoginTest - Test Passed
+20:36:52.875 [main] INFO  practice.DemoTest - Browser has opened
+20:36:53.773 [main] INFO  practice.DemoTest - Navigated to the URL - http://localhost:8888/
+20:36:55.602 [main] INFO  practice.DemoTest - User 'admin' has logged in
+20:36:58.315 [main] INFO  practice.DemoTest - The user has signed out
+20:36:58.496 [main] INFO  practice.DemoTest - The browser has closed
+20:36:59.580 [main] INFO  ProductsModule.CreateProductTest - Browser has opened
+20:37:00.515 [main] INFO  ProductsModule.CreateProductTest - Navigated to the URL - http://localhost:8888/
+20:37:02.386 [main] INFO  ProductsModule.CreateProductTest - User 'admin' has logged in
+20:37:21.866 [main] INFO  ProductsModule.CreateProductTest - The user has signed out
+20:37:22.128 [main] INFO  ProductsModule.CreateProductTest - The browser has closed
+20:37:23.209 [main] INFO  VendorsModule.CreateVendorTest - Browser has opened
+20:37:24.111 [main] INFO  VendorsModule.CreateVendorTest - Navigated to the URL - http://localhost:8888/
+20:37:25.928 [main] INFO  VendorsModule.CreateVendorTest - User 'admin' has logged in
+20:37:36.381 [main] INFO  VendorsModule.CreateVendorTest - The user has signed out
+20:37:36.582 [main] INFO  VendorsModule.CreateVendorTest - The browser has closed
+20:37:37.581 [main] INFO  LeadsModule.CreateLeadTest - Database connection closed
+20:41:31.606 [main] INFO  LeadsModule.EditLeadTest - Browser has opened
+20:41:32.524 [main] INFO  LeadsModule.EditLeadTest - Navigated to the URL - http://localhost:8888/
+20:41:34.636 [main] INFO  LeadsModule.EditLeadTest - User 'admin' has logged in
+20:41:37.508 [main] INFO  LeadsModule.EditLeadTest - The user has clicked on Leads Module
+20:41:58.355 [main] INFO  LeadsModule.EditLeadTest - The user has selected the 0 leads that he/she wants to edit
+20:42:18.732 [main] INFO  LeadsModule.EditLeadTest - Test Passed
+20:42:20.008 [main] INFO  LeadsModule.EditLeadTest - The user has navigated to home screen
+20:42:22.530 [main] INFO  LeadsModule.EditLeadTest - The user has signed out
+20:42:22.784 [main] INFO  LeadsModule.EditLeadTest - The browser has closed
+20:42:23.795 [main] INFO  LeadsModule.EditLeadTest - Database connection closed
+21:24:27.377 [main] INFO  LeadsModule.EditLeadTest - Browser has opened
+21:24:28.245 [main] INFO  LeadsModule.EditLeadTest - Navigated to the URL - http://localhost:8888/
+21:24:30.368 [main] INFO  LeadsModule.EditLeadTest - User 'admin' has logged in
+21:24:34.404 [main] INFO  LeadsModule.EditLeadTest - The user has clicked on Leads Module
+21:24:55.624 [main] INFO  LeadsModule.EditLeadTest - The user has selected the 0 leads that he/she wants to edit
+21:25:16.130 [main] INFO  LeadsModule.EditLeadTest - Test Passed
+21:25:17.067 [main] INFO  LeadsModule.EditLeadTest - The user has navigated to home screen
+21:25:20.459 [main] INFO  LeadsModule.EditLeadTest - The user has signed out
+21:25:20.746 [main] INFO  LeadsModule.EditLeadTest - The browser has closed
+21:25:21.913 [main] INFO  LeadsModule.EditLeadTest - Database connection closed
+21:25:41.036 [main] INFO  LeadsModule.CreateLeadTest - Browser has opened
+21:25:41.889 [main] INFO  LeadsModule.CreateLeadTest - Navigated to the URL - http://localhost:8888/
+21:25:44.235 [main] INFO  LeadsModule.CreateLeadTest - User 'admin' has logged in
+21:26:41.735 [main] INFO  LeadsModule.EditLeadTest - Browser has opened
+21:26:42.683 [main] INFO  LeadsModule.EditLeadTest - Navigated to the URL - http://localhost:8888/
+21:26:44.745 [main] INFO  LeadsModule.EditLeadTest - User 'admin' has logged in
+21:26:47.706 [main] INFO  LeadsModule.EditLeadTest - The user has clicked on Leads Module
+21:27:08.537 [main] INFO  LeadsModule.EditLeadTest - The user has selected the 0 leads that he/she wants to edit
+21:27:28.964 [main] INFO  LeadsModule.EditLeadTest - Test Passed
+21:27:30.610 [main] INFO  LeadsModule.EditLeadTest - The user has navigated to home screen
+21:27:33.085 [main] INFO  LeadsModule.EditLeadTest - The user has signed out
+21:27:33.278 [main] INFO  LeadsModule.EditLeadTest - The browser has closed
+21:27:34.245 [main] INFO  LeadsModule.EditLeadTest - Database connection closed
+21:53:04.876 [main] INFO  LeadsModule.EditLeadTest - Browser has opened
+21:53:05.726 [main] INFO  LeadsModule.EditLeadTest - Navigated to the URL - http://localhost:8888/
+21:53:08.191 [main] INFO  LeadsModule.EditLeadTest - User 'admin' has logged in
+21:53:11.071 [main] INFO  LeadsModule.EditLeadTest - The user has clicked on Leads Module
+21:54:30.252 [main] INFO  LeadsModule.EditLeadTest - Browser has opened
+21:54:31.113 [main] INFO  LeadsModule.EditLeadTest - Navigated to the URL - http://localhost:8888/

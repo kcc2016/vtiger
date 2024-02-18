@@ -1,0 +1,56 @@
+21:54:33.498 [main] INFO  LeadsModule.EditLeadTest - User 'admin' has logged in
+21:54:36.436 [main] INFO  LeadsModule.EditLeadTest - The user has clicked on Leads Module
+21:54:57.328 [main] INFO  LeadsModule.EditLeadTest - The user has selected the 0 leads that he/she wants to edit
+21:55:17.744 [main] INFO  LeadsModule.EditLeadTest - Test Passed
+21:55:19.173 [main] INFO  LeadsModule.EditLeadTest - The user has navigated to home screen
+21:55:21.779 [main] INFO  LeadsModule.EditLeadTest - The user has signed out
+21:55:22.037 [main] INFO  LeadsModule.EditLeadTest - The browser has closed
+21:55:23.095 [main] INFO  LeadsModule.EditLeadTest - Database connection closed
+21:55:49.580 [main] INFO  LeadsModule.CreateLeadTest - Browser has opened
+21:55:50.459 [main] INFO  LeadsModule.CreateLeadTest - Navigated to the URL - http://localhost:8888/
+21:55:52.638 [main] INFO  LeadsModule.CreateLeadTest - User 'admin' has logged in
+21:56:04.953 [main] INFO  LeadsModule.CreateLeadTest - The user has signed out
+21:56:05.169 [main] INFO  LeadsModule.CreateLeadTest - The browser has closed
+21:56:06.108 [main] INFO  LeadsModule.CreateLeadTest - Database connection closed
+12:38:48.024 [main] INFO  LeadsModule.CreateLeadTest - Browser has opened
+12:38:48.982 [main] INFO  LeadsModule.CreateLeadTest - Navigated to the URL - http://localhost:8888/
+12:38:57.149 [main] INFO  LeadsModule.CreateLeadTest - User 'admin' has logged in
+12:39:26.274 [main] INFO  LeadsModule.CreateLeadTest - The user has signed out
+12:39:26.579 [main] INFO  LeadsModule.CreateLeadTest - The browser has closed
+12:39:27.784 [main] INFO  LeadsModule.CreateLeadTest - Database connection closed
+12:40:07.835 [main] INFO  LeadsModule.EditLeadTest - Browser has opened
+12:40:08.735 [main] INFO  LeadsModule.EditLeadTest - Navigated to the URL - http://localhost:8888/
+12:40:11.040 [main] INFO  LeadsModule.EditLeadTest - User 'admin' has logged in
+12:40:14.085 [main] INFO  LeadsModule.EditLeadTest - The user has clicked on Leads Module
+12:40:14.931 [main] INFO  LeadsModule.EditLeadTest - The user has selected the 2 leads that he/she wants to edit
+12:40:14.979 [main] INFO  LeadsModule.EditLeadTest - The user has clicked on mass edit button
+12:40:20.292 [main] INFO  LeadsModule.EditLeadTest - The user has entered new details and clicked on save button
+12:40:43.641 [main] INFO  LeadsModule.EditLeadTest - Test Passed
+12:40:44.991 [main] INFO  LeadsModule.EditLeadTest - The user has navigated to home screen
+12:40:47.614 [main] INFO  LeadsModule.EditLeadTest - The user has signed out
+12:40:47.849 [main] INFO  LeadsModule.EditLeadTest - The browser has closed
+12:40:48.814 [main] INFO  LeadsModule.EditLeadTest - Database connection closed
+13:45:45.356 [main] INFO  LeadsModule.CreateLeadTest - Browser has opened
+13:45:46.327 [main] INFO  LeadsModule.CreateLeadTest - Navigated to the URL - http://localhost:8888/
+13:45:48.721 [main] INFO  LeadsModule.CreateLeadTest - User 'admin' has logged in
+13:46:04.874 [main] INFO  LeadsModule.CreateLeadTest - The user has signed out
+13:46:05.171 [main] INFO  LeadsModule.CreateLeadTest - The browser has closed
+13:46:06.953 [main] INFO  LeadsModule.CreateLeadTest - Database connection closed
+17:30:56.877 [main] INFO  LeadsModule.DeleteLeadUsingDelLInkTest - Browser has opened
+17:30:57.772 [main] INFO  LeadsModule.DeleteLeadUsingDelLInkTest - Navigated to the URL - http://localhost:8888/
+17:31:00.470 [main] INFO  LeadsModule.DeleteLeadUsingDelLInkTest - User 'admin' has logged in
+17:31:03.254 [main] INFO  LeadsModule.DeleteLeadUsingDelLInkTest - The user has navigated to Leads Module
+17:31:03.337 [main] INFO  LeadsModule.DeleteLeadUsingDelLInkTest - The user is trying to delete Viraj Nevrekar
+17:31:04.353 [main] INFO  LeadsModule.DeleteLeadUsingDelLInkTest - The user has accepted the alert popup
+17:31:27.410 [main] INFO  LeadsModule.DeleteLeadUsingDelLInkTest - Test Passed
+17:31:28.633 [main] INFO  LeadsModule.DeleteLeadUsingDelLInkTest - The user has navigated to home page
+17:31:31.154 [main] INFO  LeadsModule.DeleteLeadUsingDelLInkTest - The user has signed out
+17:31:33.045 [main] INFO  LeadsModule.DeleteLeadUsingDelLInkTest - User 'admin' has logged in
+17:31:35.366 [main] INFO  LeadsModule.DeleteLeadUsingDelLInkTest - The user has navigated to Leads Module
+17:31:35.458 [main] INFO  LeadsModule.DeleteLeadUsingDelLInkTest - The user is trying to delete Rohit Pai
+17:31:36.477 [main] INFO  LeadsModule.DeleteLeadUsingDelLInkTest - The user has accepted the alert popup
+17:31:39.537 [main] INFO  LeadsModule.DeleteLeadUsingDelLInkTest - The user is trying to delete Rohit Pai
+17:31:40.546 [main] INFO  LeadsModule.DeleteLeadUsingDelLInkTest - The user has accepted the alert popup
+17:31:43.607 [main] INFO  LeadsModule.DeleteLeadUsingDelLInkTest - The user is trying to delete Rohit Pai
+17:31:44.616 [main] INFO  LeadsModule.DeleteLeadUsingDelLInkTest - The user has accepted the alert popup
+17:32:07.735 [main] INFO  LeadsModule.DeleteLeadUsingDelLInkTest - Test Passed

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-17T18:46:25 IST" name="Default suite" finished-at="2024-02-17T18:46:43 IST" duration-ms="17947">
+    <groups>
+    </groups>
+    <test started-at="2024-02-17T18:46:25 IST" name="Default test" finished-at="2024-02-17T18:46:43 IST" duration-ms="17947">
+      <class name="LeadsModule.CreateLeadTest">
+        <test-method is-config="true" signature="bs()[pri:0, instance:LeadsModule.CreateLeadTest@139982de]" started-at="2024-02-17T18:46:25 IST" name="bs" finished-at="2024-02-17T18:46:25 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bs -->
+        <test-method is-config="true" signature="bc()[pri:0, instance:LeadsModule.CreateLeadTest@139982de]" started-at="2024-02-17T18:46:25 IST" name="bc" finished-at="2024-02-17T18:46:28 IST" duration-ms="3100" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bc -->
+        <test-method is-config="true" signature="bm()[pri:0, instance:LeadsModule.CreateLeadTest@139982de]" started-at="2024-02-17T18:46:29 IST" name="bm" finished-at="2024-02-17T18:46:31 IST" duration-ms="2168" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method signature="createAndVerifyLeadTest()[pri:0, instance:LeadsModule.CreateLeadTest@139982de]" started-at="2024-02-17T18:46:31 IST" name="createAndVerifyLeadTest" finished-at="2024-02-17T18:46:40 IST" duration-ms="9553" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAndVerifyLeadTest -->
+        <test-method is-config="true" signature="am()[pri:0, instance:LeadsModule.CreateLeadTest@139982de]" started-at="2024-02-17T18:46:40 IST" name="am" finished-at="2024-02-17T18:46:43 IST" duration-ms="2555" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- am -->
+        <test-method is-config="true" signature="ac()[pri:0, instance:LeadsModule.CreateLeadTest@139982de]" started-at="2024-02-17T18:46:43 IST" name="ac" finished-at="2024-02-17T18:46:43 IST" duration-ms="269" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ac -->
+        <test-method is-config="true" signature="as()[pri:0, instance:LeadsModule.CreateLeadTest@139982de]" started-at="2024-02-17T18:46:44 IST" name="as" finished-at="2024-02-17T18:46:44 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- as -->
+      </class> <!-- LeadsModule.CreateLeadTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
